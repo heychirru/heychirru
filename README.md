@@ -13,7 +13,7 @@ A passionate Backend developer from India
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heychirru&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heychirru&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itschirru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heychirru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=heychirru&theme=dark&no-frame=false&no-bg=false&margin-w=4)
